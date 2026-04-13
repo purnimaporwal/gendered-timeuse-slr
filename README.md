@@ -2,7 +2,7 @@
 
 **PRISMA-Based Systematic Literature Reviews on Gendered Time Use and Labour Inequality**
 
-This repository documents the methodology and outputs of two systematic literature reviews co-authored with Dr Motilal Mahamallik and Dr Harchand Ram at the Institute of Development Studies (IDS), Jaipur, conducted June–August 2025.
+This repository documents the methodology and outputs of two systematic literature reviews co-authored with Dr Motilal Mahamallik, supervised by Dr Harchand Ram at the Institute of Development Studies (IDS), Jaipur, conducted June–August 2025.
 
 ## Overview
 
